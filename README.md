@@ -6,6 +6,6 @@ It had been a long time since I worked on models using TensorFlow 2.0 so I wante
 ## Key stats:
 ### Time for: 
 
-<b> EDA + preprocessing + modelling </b> 9.46 minutes
-<b> Till model training </b>10.15 minutes
-<b> Till model evaluation </b> 13.76 minutes
+<b> EDA + preprocessing + modelling </b> 9.46 minutes <br>
+<b> Till model training </b>10.15 minutes<br>
+<b> Till model evaluation </b> 13.76 minutes<br>
