@@ -2,7 +2,7 @@
 ![cover image](cover.jpg)
 
 
-It had been a long time since I worked on models using TensorFlow 2.0 so I wanted to get back into it. I thought the best way to get into it was to do a speed run on the breast cancer dataset in sklearn.datasets. It is a tabular dataset. Next step - Detection of tumors through images
+It had been a long time since I worked on models using TensorFlow 2.0. I thought the best way to get back into TF was to do a speed run on the breast cancer dataset in sklearn.datasets. It is a tabular dataset. Next step - Detection of tumors through images
 
 ## Key stats:
 ### Time for: 
